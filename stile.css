@@ -33,7 +33,6 @@ body {
 #fascia-navigazione {
     background-color: rgb(255, 255, 255);
     height: 91px;
-    padding-right: 310px;
     top: 35px;
 }
 
@@ -52,7 +51,9 @@ body {
 }
 
 #fascia-finale {
-    height: 577px;
+    height: 630px;
+    width: 3000px;
+    background-color: #4971FF;
 }
 
 
