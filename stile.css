@@ -48,9 +48,14 @@ body {
 }
 
 .card {
-    padding: ;
+    margin: 3px;
 }
 
 #fascia-finale {
     height: 577px;
+}
+
+
+.google-maps {
+    margin-top: 100px;
 }
